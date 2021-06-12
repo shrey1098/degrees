@@ -1,7 +1,10 @@
 # degrees
-This project was an assignment for CS50's Introduction to Artificial Intelligence With Python by HarvarxX.
+This project was an assignment for CS50's Introduction to Artificial Intelligence With Python by HarvardX.
+
 This project deals with depth first search and breadth first search.
+
 Project Details as below:
+
 According to the Six Degrees of Kevin Bacon game, anyone in the Hollywood film industry can be connected to Kevin Bacon within six steps, where each step consists of 
 finding a film that two actors both starred in.
 
